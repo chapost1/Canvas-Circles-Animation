@@ -1,6 +1,7 @@
 var canvas = document.getElementById("myCircleCanvas");
 var myCanvas = canvas.getContext("2d");
 //debugger;
+//1
 var radiusInput = document.getElementById('radiusInput');/////////  הקלט של הרדיוס
 var circlesArray = [];
 var calcButton = document.getElementById('calcBTN');
